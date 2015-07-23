@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-My first repositiry
+My first repository
